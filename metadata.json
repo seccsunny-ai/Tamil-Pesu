@@ -1,0 +1,6 @@
+{
+  "name": "Tamizhppēcu - Spoken Tamil Companion",
+  "description": "Interactive Spoken Tamil language learning app with audio drills, situational dialogues, and voice pronunciation scoring.",
+  "requestFramePermissions": ["MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
